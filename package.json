@@ -1,6 +1,6 @@
 {
   "homepage": "https://markjay18.github.io/quiz-app",
-  "name": "quiz",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
