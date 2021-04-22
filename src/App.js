@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 
 function App() {
-  /* JS Questions */
+  /* JS quiz Questions */
   const questions = [
     {
       questionlabel: 'What is the capital of Philippines?',
